@@ -122,19 +122,19 @@
   <summary><b>Languages stats</b></summary>
   <br/>
   <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_dark&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_dark&layout=compact">
     <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_bright&layout=compact">
     <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_dark&layout=compact">
   </picture>
 
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_dark&layout=compact">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_dark&layout=compact">
     <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_bright&layout=compact">
     <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_dark&layout=compact">
   </picture>
 </details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SejalKankriya&show_icons=true&locale=en&layout=compact" alt="SejalKankriya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SejalKankriya&show_icons=true&locale=en&layout=compact&theme=nord_dark" alt="SejalKankriya" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SejalKankriya&" alt="SejalKankriya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SejalKankriya&theme=nord_dark" alt="SejalKankriya" /></p>
