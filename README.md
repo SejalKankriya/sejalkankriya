@@ -16,13 +16,11 @@
   </a>
 </div>
 
-<br />
-
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h2>
 
 <p>
-  <a href=""><img src="https://readme-typing-svg.herokuapp.com?&font=Raleway&weight=600&size=28&color=black&lines=I'm+Sejal Kankriya ッ;Welcome+to+my+GitHub+Profile!;" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?&font=Raleway&weight=600&size=24&color=black&lines=I'm+Sejalッ+Nice+to+meet+you!!;Welcome+to+my+GitHub+Profile!;" /></a>
 </p>
 </div>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SejalKankriya&label=Profile%20views&color=0e75b6&style=flat" alt="SejalKankriya" /> </p> -->
@@ -124,15 +122,15 @@
   <summary><b>Languages stats</b></summary>
   <br/>
   <picture align="left">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_bright">
-    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_dark&layout=compact">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_bright&layout=compact">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SejalKankriya&theme=nord_dark&layout=compact">
   </picture>
 
   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_dark">
-    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_bright">
-    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_dark">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_dark&layout=compact">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_bright&layout=compact">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SejalKankriya&theme=nord_dark&layout=compact">
   </picture>
 </details>
 
