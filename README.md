@@ -23,7 +23,7 @@
   <a href=""><img src="https://readme-typing-svg.herokuapp.com?&font=Raleway&weight=600&size=24&color=black&lines=I'm+Sejalッ+Nice+to+meet+you!!;Welcome+to+my+GitHub+Profile!;" /></a>
 </p>
 </div>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=SejalKankriya&label=Profile%20views&color=0e75b6&style=flat" alt="SejalKankriya" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SejalKankriya&label=Profile%20views&color=blue&style=flat" alt="SejalKankriya" /> </p>
 
 ## Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>
 
