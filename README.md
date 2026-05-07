@@ -17,8 +17,6 @@
 
 ML engineer working on production systems in regulated enterprise environments. Background spans modern agent engineering and classical ML at scale. Most of the work has been on the parts that don't show up in demos: feedback loops, evaluation discipline, drift, and keeping models useful after the launch announcement.
 
-Currently building an internal LLM investigation agent at Walmart. Earlier work in fraud ML on high-volume transactional data and graph neural network research in healthcare.
-
 ### `cat ~/work/principles.md`
 
 > **Eval discipline beats model choice.** Most production wins come from better ground truth and better routing, not from upgrading the LLM.
